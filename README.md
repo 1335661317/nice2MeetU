@@ -9,7 +9,6 @@ nice2MeetU is CDog's Personal Front page project. With i18n support.
 The newest `npm`,`Node` and `Gulp` installations are required.
 
 
-
 # Initialization
 
 1. Clone this Repository to your local computer
